@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "name": "TV",
+      "price": "9890",
+      "id": 1
+    },
+    {
+      "name": "Play Station 5",
+      "price": "14000",
+      "id": 2
+    }
+  ]
+}
